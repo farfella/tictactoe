@@ -4,3 +4,5 @@
 Copyright (c) Ateeq Sharfuddin.
 
 bin\Release_Unicode\pfx_tictactoe.exe
+
+![](https://raw.githubusercontent.com/farfella/tictactoe/master/tictactoe.png)
